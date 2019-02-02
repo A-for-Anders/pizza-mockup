@@ -1,0 +1,20 @@
+body {
+  background:url(pizza-background1.png) no-repeat;
+    background-size:cover;
+}
+
+.opacity-green {
+  background: rgba(76, 175, 80, 0.7);
+}
+
+.opacity-blue {
+  background: rgba(23,162,184, 0.7);
+}
+
+.opacity-dark {
+  background: rgba(52,58,64, 0.3);
+}
+
+.center-align {
+  text-align: center;
+}
