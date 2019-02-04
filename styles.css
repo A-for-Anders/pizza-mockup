@@ -4,15 +4,27 @@ body {
 }
 
 .opacity-green {
-  background: rgba(76, 175, 80, 0.6);
+  background: rgba(76, 175, 80, 0.7);
 }
 
 .opacity-blue {
-  background: rgba(23,162,184, 0.6);
+  background: rgba(23,162,184, 0.7);
 }
 
 .opacity-dark {
   background: rgba(52,58,64, 0.3);
+}
+
+.opacity-danger {
+  background: rgba(220,53,69, 0.7)
+}
+
+.menu {
+  margin-top: 35rem;
+}
+
+.recommendation {
+  margin-top: 15rem;
 }
 
 .bbb {
